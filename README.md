@@ -1,12 +1,12 @@
-<table>
-  <tr>
-    <!-- LEFT SIDE -->
-    <td width="60%" valign="center">
+<!-- PROFILE HEADER -->
+<h1 align="left">Hi 👋, I'm Kaushal Sharma</h1>
+<h3 align="left">Software Engineer</h3>
 
-<h1>Hi 👋, I'm Kaushal Sharma</h1>
-<h3>Software Engineer</h3>
+<!-- LAYOUT -->
+<div style="display:flex; align-items:center; justify-content:space-between;">
 
-<br>
+  <!-- LEFT CONTENT -->
+  <div>
 
 🌱 I’m currently learning <b>Node.js, MongoDB, C++</b><br><br>
 
@@ -21,14 +21,14 @@
 🤝 Connect with me  
 🔗 <a href="https://www.linkedin.com/in/kaushal--sharma/">LinkedIn</a>
 
-    </td>
+  </div>
 
-    <!-- RIGHT SIDE GIF -->
-    <td width="40%" align="right">
-      <img src="nft-coding.gif" width="350" />
-    </td>
-  </tr>
-</table>
+  <!-- RIGHT GIF -->
+  <div>
+    <img src="./nft-coding.gif" width="350" />
+  </div>
+
+</div>
 
 ---
 
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
 </p>
