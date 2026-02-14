@@ -1,17 +1,30 @@
-<h1 align="left">Hi 👋, I'm Kaushal Sharma</h1>
-<h3 align="left">Software Engineer</h3>
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Kaushal Sharma</h1>
+  <h3 align="center">A passionate Software Engineer from India</h3>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kaushal171205&label=Profile%20views&color=0e75b6&style=flat" alt="Kaushal171205" />
+</p>
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
-      <p>🌱 I’m currently learning <b>Node.js, MongoDB, C++</b></p>
-      <p>👨‍💻 All of my projects are available at <br> 👉 <a href="https://github.com/Kaushal171205">GitHub Portfolio</a></p>
-      <p>💬 Ask me about <b>React.js, JavaScript</b></p>
-      <p>📫 How to reach me <br> 📧 <b>ksharma17052005@gmail.com</b></p>
-      <p>🤝 Connect with me <br> 🔗 <a href="https://www.linkedin.com/in/kaushal--sharma/">LinkedIn</a></p>
+      <ul>
+        <li>🌱 I’m currently learning <b>Node.js, MongoDB, C++</b></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://github.com/Kaushal171205">GitHub Portfolio</a></li>
+        <li>💬 Ask me about <b>React.js, JavaScript</b></li>
+        <li>📫 How to reach me <b>ksharma17052005@gmail.com</b></li>
+        <li>📄 Know about my experiences <a href="YOUR_LINK_HERE">[Link]</a></li>
+      </ul>
+      <br>
+      <p><b>Connect with me:</b></p>
+      <p>
+        <a href="https://linkedin.com/in/kaushal--sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal--sharma" height="30" width="40" /></a>
+      </p>
     </td>
     <td width="40%" align="right" valign="top">
-      <img src="./nft-coding.gif" width="350" alt="Coding GIF" />
+      <img src="./nft-coding.gif" width="350" />
     </td>
   </tr>
 </table>
@@ -20,7 +33,7 @@
 
 ## 💃 Skillset
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
