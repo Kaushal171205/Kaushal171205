@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋, I'm Kaushal Sharma
+A passionate Software Engineer from India
+coding
 
-<!--
-**Kaushal171205/Kaushal171205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Nodejs,MongoDb,C++
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/Kaushal171205
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Reactjs,Js
+
+📫 How to reach me ksharma17052005@gmail.com
+
+Connect with me:
+ [Kaushal Sharma](https://www.linkedin.com/in/kaushal--sharma/)
+
+💃 Skillset
+C++ C CSS3 HTML5 JavaScript  Express.js JWT JS NodeJS React TailwindCSS Firebase MongoDB Docker Postman
