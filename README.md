@@ -16,7 +16,7 @@
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/Kaushal171205">GitHub Portfolio</a></li><br>
         <li>💬 Ask me about <b>Reactjs, Js</b></li><br>
         <li>📫 How to reach me <b>ksharma17052005@gmail.com</b></li><br>
-        <li>📄 Know about my experiences <a href="https://bit.ly/48fXEn6">[Link]</a></li>
+        <li>📄 Know about my experiences <a href="https://drive.google.com/file/d/1tvTKrGnk5hdKWTcu6UIthfWeXx9Dm6xr/view">[Link]</a></li>
       </ul>
       <br>
       <p><b>Connect with me:</b></p>
